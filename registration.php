@@ -12,24 +12,29 @@
 </head>
 
 <body>
+    <div id="preloader">
+        <div>
+            
+        </div>
+    </div>
     <main>
         <div>
             <h1>Registration</h1>
             <div>
-                <form>
+                <form id="registration">
                     <div>
                         <label for="reg_email">Email</label>
-                        <input type="text" name="reg_email" id="reg_email">
+                        <input type="text" name="email" id="email">
                     </div>
 
                     <div>
                         <label for="reg_password">Password</label>
-                        <input type="password" name="reg_password" id="reg_password">
+                        <input type="password" name="password" id="password">
                     </div>
 
                     <div>
                         <label for="reg_name">Name</label>
-                        <input type="text" name="reg_name" id="reg_name">
+                        <input type="text" name="name" id="name">
                     </div>
 
                     <div>
