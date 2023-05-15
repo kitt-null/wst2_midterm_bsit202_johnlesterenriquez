@@ -18,18 +18,18 @@
             <div>
                 <form>
                     <div>
-                        <label for="reg_email" name="reg_email" id="reg_email">Email</label>
-                        <input type="text">
+                        <label for="reg_email">Email</label>
+                        <input type="text" name="reg_email" id="reg_email">
                     </div>
 
                     <div>
-                    <label for="reg_password" name="reg_password" id="reg_password">Password</label>
-                        <input type="password">
+                        <label for="reg_password">Password</label>
+                        <input type="password" name="reg_password" id="reg_password">
                     </div>
 
                     <div>
-                    <label for="reg_name" name="reg_name" id="reg_name">Name</label>
-                        <input type="text">
+                        <label for="reg_name">Name</label>
+                        <input type="text" name="reg_name" id="reg_name">
                     </div>
 
                     <div>

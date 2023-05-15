@@ -18,13 +18,13 @@
             <div>
                 <form>
                     <div>
-                        <label for="login_email" name="login_email" id="login_email">Email</label>
-                        <input type="text">
+                        <label for="login_email">Email</label>
+                        <input type="text" name="login_email" id="login_email">
                     </div>
 
                     <div>
-                    <label for="login_password" name="login_password" id="login_password">Password</label>
-                        <input type="password">
+                        <label for="login_password">Password</label>
+                        <input type="password" name="login_password" id="login_password">
                     </div>
 
                     <div>
